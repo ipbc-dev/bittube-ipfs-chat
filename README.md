@@ -1,6 +1,8 @@
 # bittube-ipfs-chat
 Distributed, serverless, peer-to-peer chat application on IPFS
 
+Demo: https://webchat.bit.tube
+
 Get the source code:
 
 ```
